@@ -1,7 +1,9 @@
 # todo
 This is a todo list developed using HTML, CSS and Javascript
 
-![]("https://github.com/Spidy2924/todo/blob/main/todo.png")
+<p>
+<img src = "todo.png" height = "500" width = "1000"/>
+</p>
 
 ## Features 
 
